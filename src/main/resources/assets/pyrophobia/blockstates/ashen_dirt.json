@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {"model" : "pyrophobia:block/ashen_dirt"},
+      {"model" : "pyrophobia:block/ashen_dirt", "y" : 90},
+      {"model" : "pyrophobia:block/ashen_dirt", "y" : 180},
+      {"model" : "pyrophobia:block/ashen_dirt", "y" : 270}
+    ]
+  }
+}

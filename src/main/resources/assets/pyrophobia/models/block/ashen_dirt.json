@@ -1,0 +1,12 @@
+{
+  "parent" : "block/cube_all",
+  "textures": {
+    "up" : "pyrophobia:block/ashen_dirt_top",
+    "down" : "pyrophobia:block/ashen_dirt_bottom",
+    "north" : "pyrophobia:block/ashen_dirt_side",
+    "south" : "pyrophobia:block/ashen_dirt_side",
+    "west" : "pyrophobia:block/ashen_dirt_side",
+    "east" : "pyrophobia:block/ashen_dirt_side",
+    "particle" : "pyrophobia:block/ashen_dirt_side"
+  }
+}
